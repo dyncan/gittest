@@ -1,0 +1,167 @@
+[
+    [
+        "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1509506540582,
+            "changeTime": 1509506540582,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1509506540584,
+            "changeTime": 1509506540584,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1509507468333,
+            "changeTime": 1509507468333,
+            "contentHash": "6899b872e57456c81d7a2b00b0b5d5cee2f995d5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1509506540586,
+            "changeTime": 1509506540586,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1509507412111,
+            "changeTime": 1509507412111,
+            "contentHash": "93931628887195edee35e3f524280f5c0365a990",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject\\force-app\\main\\default\\classes\\AccountsLoadCtrl.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject\\force-app\\main\\default\\classes\\AccountsLoadCtrl.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 514,
+            "modifiedTime": 1509507412154,
+            "changeTime": 1509507414845,
+            "contentHash": "81ae7c9ab41ed9ad68ddb121d45361625757faf9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject\\force-app\\main\\default\\classes\\AccountsLoadCtrl.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject\\force-app\\main\\default\\classes\\AccountsLoadCtrl.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1509507412107,
+            "changeTime": 1509507414805,
+            "contentHash": "8edf06a0f1338289e1d028eb851c29542e1a041a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject\\force-app\\main\\default\\pages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1509507468339,
+            "changeTime": 1509507468339,
+            "contentHash": "4129378430a0d769654c626b0ef7af24e91f8dac",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject\\force-app\\main\\default\\pages\\AccountsLoadPage.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject\\force-app\\main\\default\\pages\\AccountsLoadPage.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1573,
+            "modifiedTime": 1509507468385,
+            "changeTime": 1509507471105,
+            "contentHash": "0dfb2bb304573d03eaa321f96d901e42fa3cbc03",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject\\force-app\\main\\default\\pages\\AccountsLoadPage.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject\\force-app\\main\\default\\pages\\AccountsLoadPage.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 292,
+            "modifiedTime": 1509507468336,
+            "changeTime": 1509507471058,
+            "contentHash": "452ccc66f86ab9613680d58da26cd14df6b6dbd4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1509507528435,
+            "changeTime": 1509507528435,
+            "contentHash": "eef8e0288540e5ff6a0806fc838111d9b78f2a4f",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

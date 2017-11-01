@@ -1,0 +1,71 @@
+<apex:page showHeader="true" sidebar="true" applyBodyTag="false" controller="AccountsLoadCtrl" standardStylesheets="false">
+
+	<body
+	xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        xmlns:v-once="http://vue/fake"
+        xmlns:v-html="http://vue/fake"
+        xmlns:v-bind="http://vue/fake"
+        xmlns:v-if="http://vue/fake"
+        xmlns:v-on="http://vue/fake"
+        xmlns:v-model="http://vue/fake">
+		
+	<div id="table">
+		<table >
+			<thead>
+				<tr>
+					<th>Account Id</th>
+					<th>Name</th>
+					<th>Phone</th>
+					<th>Type</th>
+				</tr>
+			</thead>
+			<tr v-for="a in accounts">
+				<td> {{a.Id}} </td>
+				<td> {{a.Name}} </td>
+				<td>{{a.Phone}} </td>
+				<td>{{a.Type}}</td>
+			</tr>
+		</table>
+		
+	</div>
+
+	<script src="https://unpkg.com/vue/dist/vue.js"></script>
+	<script type="text/javascript">
+		var tab = new Vue({
+			el: "#table",
+			data: {
+				accounts: []
+			},
+			methods: {
+				load: function () {
+					var self = this;
+					Visualforce.remoting.timeout = 120000;
+					Visualforce.remoting.Manager.invokeAction(
+						'{!$RemoteAction.AccountsLoadCtrl.getAccounts}',
+						function handleRemoteResponse (result, event) {
+							if (!event.status) {
+								console.error('Error is: ', event.message)
+								return;
+							}
+					
+							if (!result || result.length < 1) {
+								console.log('Empty result');
+								return;
+							}
+						
+							self.accounts = result;
+							
+						}, {
+							escape: false
+						} 
+					);
+				}
+			}
+		});
+		tab.load();
+		
+	</script>
+	</body>
+
+</apex:page>

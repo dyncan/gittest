@@ -1,0 +1,77 @@
+[
+    [
+        "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1509506540582,
+            "changeTime": 1509506540582,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1509506540584,
+            "changeTime": 1509506540584,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1509506540586,
+            "changeTime": 1509506540586,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1509506540586,
+            "changeTime": 1509506540586,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject",
+        {
+            "state": "n",
+            "sourcePath": "C:\\PeterDong\\workspace\\sforcedx\\sfdx-migratingExistingProject\\myproject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1509506791062,
+            "changeTime": 1509506791062,
+            "contentHash": "91d5e19dce44c6c1db0d8fa20f1ff93e8c548771",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
