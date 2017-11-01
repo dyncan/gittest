@@ -1,6 +1,7 @@
 public with sharing class AccountsLoadCtrl {
    	
    	private static Set<Id> accsIds;
+   	private static Set<Id> ids;
 
     public AccountsLoadCtrl() {}
 
